@@ -6,7 +6,7 @@ public class println_vs_print {
 	
 	
 	public static void main(String[] args) {
-		System.out.println("Hello Cybertek"); // prints from a new line
+		System.out.println("Hello Cybertekkkk"); // prints from a new line
 		System.out.println("school");
 		
 		System.out.println("======================");
